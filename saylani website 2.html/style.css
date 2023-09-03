@@ -1,0 +1,289 @@
+.Background{
+    width:101%;
+    min-height: 500px;
+    background-color: rgb(64,78,237);
+    background-image: url(./images/7.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -8px ;
+    margin-left: -8px;
+    
+   
+    
+}
+.Discord{
+    width: 10%;
+    display: inline-block;
+    font-size: 30px;
+    padding: 20px;
+    padding-left: 30px;
+    text-decoration:none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+.menu{
+    width: 70%;
+    display: inline-block;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    
+}
+span{
+    margin: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.login{
+width: 6%;
+height: 35px;
+display: inline-block;
+background-color: white;
+text-align: center;
+vertical-align: center;
+border-radius:25px;
+font-size: 18px;
+padding-top: 10px;
+margin-left: 40px;
+}
+.content{
+width:60%;
+margin: 90px auto 0px auto;
+color: white;
+text-align: center;
+}
+.content h1{
+    font-size: 50px;
+    font-family: 'Arial Narrow Bold', sans-serif;   
+}
+.content p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.btn1{
+    background-color: white;
+    width: 250px;
+    height: 60px;
+    border-radius: 50px;
+    border: none ;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 60px;
+    border-radius: 50px;
+    border: none ;
+    font-size: 18px;
+    margin-left: 20px;
+}
+.btn1:hover{
+color: blue;
+box-shadow: 1px 1px 10px black ;
+}
+.btn2:hover{
+opacity: 0.8;
+box-shadow: 1px 1px 10px black ;
+}
+
+.img1{
+    position: relative;  
+    left: -290px;   
+}
+.img2{
+    position: relative;
+      right:-290px; ;  
+}
+.main{
+    width: 100%;
+    display: flex;
+    margin-top: 90px;
+    justify-content: space-evenly; 
+}
+.content1{
+    width: 30%;
+}
+.content1 h1{
+    font-size: 50px;
+    margin-left: 10px;
+    margin-top: 60px;
+}
+.content1 p{
+    font-size: 20px;
+    line-height: 25px;
+}
+.main2{
+    width: 100%;
+    height: 700px; 
+    background-color: rgb(246,246,246);
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.content2{
+    margin-top:150px ;
+    width: 30%;
+    margin-left: 25px; 
+}
+.content2 h1{  
+    font-size: 50px;  
+}
+
+.content2 p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.pic1{
+    width: 60%;
+    margin-top: 120px;
+    margin-left: 40px;
+}
+.main3{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 110px;
+}
+
+.content3{
+    width: 30%;
+    margin-top: 50px;
+   
+}
+.content3 h1{
+    font-size: 50px; 
+}
+.content3 p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.main4{
+    width: 100%;
+    height: 1300px; 
+    background-color: rgb(246,246,246);
+    margin-top: 120px;
+}
+.content4{
+        width: 75%;
+       margin-left: auto;
+       margin-right: auto;
+       padding-top: 60px;
+       
+}
+.content4 h1{
+    font-size: 45px;  
+    word-spacing: 3px;
+}
+.content4 p{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+.pic3 {
+    width: 100%;
+    text-align: center;
+}
+.content5{
+    text-align: center  ;
+    line-height: 30px;
+    margin-top: 70px;
+}
+.content5 h1{
+    font-size: 40px;
+}
+.btn3{
+    background-color: rgb(88,101,242);
+    color: white;
+    width: 250px;
+    height: 60px;
+    border-radius: 50px;
+    border: none ;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.btn3:hover{
+    opacity: 0.8;
+    box-shadow: 1px 1px 10px black ;
+ }
+ .footer{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(35,39,42);
+    display: flex;
+    justify-content: space-around;
+    /* padding-top: 30px; */
+    text-align: center;
+   
+    
+ }
+ .footer1{
+    font-size: 20px;      
+}
+.footer1 i {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.footer2 h3{
+    margin-top: 80px;
+    color: rgb(76,89,224);
+    font-size: 15px;   
+ }
+ .footer3 h3{
+    margin-top: 80px;
+    color: rgb(76,89,224);
+    font-size: 15px; 
+    text-align: right;
+    margin-right: 10px;
+ }
+ .footer4 h3{
+    margin-top: 80px;
+    color: rgb(76,89,224);
+    font-size: 15px; 
+    margin-right: 60px;
+   
+ }
+ .footer5 h3{
+    margin-top: 80px;
+    color: rgb(76,89,224);
+    font-size: 15px; 
+    margin-right: 50px;
+ }
+ ul{
+    list-style-type: none;
+    text-align: left;
+    color: white;
+    line-height: 30px;
+ }
+
+ hr{
+    border: 1.5px rgb(88,101,242) solid;
+ }
+ .Discord1{
+    background-color: rgb(35,39,42);   
+    height: 100px;  
+    font-size: 30px;
+    padding: 20px;
+    padding-left: 30px;
+    text-decoration:none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+ }
+ .Discord1 button{
+    background-color: rgb(88,101,242);
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    border: none ;
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+ 
